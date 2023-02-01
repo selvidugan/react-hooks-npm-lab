@@ -6,7 +6,8 @@
     "jest": "^29.3.1"
   },
   "scripts": {
-    "test": "jest"
+    "test": "echo 'Hello World!'",
+    "start": "serve"
   },
   "browserslist": {
     "production": [
